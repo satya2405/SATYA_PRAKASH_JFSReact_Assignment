@@ -1,0 +1,24 @@
+.pages{
+    text-align: center;
+    margin: 0 auto !important;
+    padding-top: 50px;
+}
+
+/* Home page */
+.home-question-links{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.home-question-links h3{
+    cursor: pointer;
+    width: 400px;
+    max-width: 100%;
+    border: 2px solid #070707;
+    padding: .5rem 1rem;
+}
+.home-question-links h3:hover{
+    background-color: rgb(248, 223, 142);
+}
+

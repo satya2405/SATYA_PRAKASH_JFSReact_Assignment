@@ -1,0 +1,15 @@
+/* Question 2 */
+.table-responsive-sm{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.table{
+    width: fit-content !important;
+    border-style: ridge;
+}
+
+.table td{
+    padding: 0.75rem 3rem;
+}

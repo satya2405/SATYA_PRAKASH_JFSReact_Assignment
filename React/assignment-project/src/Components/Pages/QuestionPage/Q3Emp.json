@@ -1,0 +1,7 @@
+[
+    { "id": 1, "name": "Charlie", "job": "Janitor" },
+    { "id": 2, "name": "Mac", "job": "Bouncer" },
+    { "id": 3, "name": "Dee", "job": "Aspiring actress" },
+    { "id": 4, "name": "Dennis", "job": "Bartender" },
+    { "id": 5, "name": "Priyanka", "job": "UI/UX Designer" }
+]
